@@ -16,7 +16,8 @@ This repository houses the AI-generated artefacts:
 6. Videos or links to videos (MP3)
 
 This is the complete list of files:
-Sections
+
+Sections:
 1 Abstract
 2 Introduction
 3 Method
@@ -24,33 +25,33 @@ Sections
 5 Discussion 
 6 References
 
-Subsections
+Subsections:
 7 Related works
 8 Importance
 9 Novelty
 10 Overview
 
-Functions
+Functions:
 11 Referring to figures
 12 Referring to tables
 13 Referring to equations
 
-Linking
+Linking:
 14  All
 15 Prepositions
 16 Transitions
 17 Conjunctions
 
-Voice
+Voice:
 18 Passive voice
 
-Pedagogic tenses
+Pedagogic tenses:
 19 Three main tenses
 20 Present simple
 21 Present perfect simple
 22 Past simple
 
-Modality
+Modality:
 23 Hedges
 24 Boosters
 25 Approximation
