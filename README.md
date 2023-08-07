@@ -8,8 +8,9 @@ Quality feedback is crucial for learning, with metalinguistic explanations being
 **Contents**
 
 This repository houses the AI-generated artefacts:
-1. Textual descriptions (TXT)
-2. Textual descriptions (HTML)
+1. Combined files by genre (DOCX)
+2. Textual descriptions (TXT)
+3. Textual descriptions (HTML)
 4. Scripts (TXT)
 5. Bullet-point slide deck (PPTX)
 6. Videos or links to videos (MP3)
