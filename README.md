@@ -11,9 +11,8 @@ This repository houses the AI-generated artefacts:
 1. Combined files by genre (DOCX)
 2. Textual descriptions (TXT)
 3. Textual descriptions (HTML)
-4. Scripts (TXT)
-5. Bullet-point slide deck (PPTX)
-6. Videos or links to videos (MP3)
+4. Bullet-point slide deck (PPTX)
+5. Videos or links to videos (MP3)
 
 This is the complete list of files:
 
