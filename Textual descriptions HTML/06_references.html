@@ -1,0 +1,62 @@
+<div>
+    <h2>References section</h2>
+    <p>Whether you're using LaTeX or MS Word, the format of your references section largely depends on the citation style mandated by your target journal or conference. The most common styles in computer science include IEEE, ACM, and APA, among others.</p>
+
+    <p>Here's a general guide on how to prepare your references section:</p>
+
+    <h3>In LaTeX</h3>
+
+    <h4>1. Using .bib file</h4>
+    <p>This is a popular method because it automates the process and ensures consistent formatting. First, you need to create a .bib file. This is a bibliography database where each reference is stored with a unique identifier. Here is an example of how to format entries in the .bib file:</p>
+
+    <pre>
+@article{key,
+author = "Author Name",
+title = "Title of the Article",
+journal = "Journal Name",
+year = "Publication Year",
+volume = "Volume Number",
+number = "Issue Number",
+pages = "Page Numbers",
+}
+    </pre>
+
+    <p>After creating the .bib file, place it in the same folder as your main .tex file. In your main .tex file, use the <code>\cite{key}</code> command to cite references in the text where <code>key</code> is the unique identifier of the reference in the .bib file. At the end of your document (where you want the references to appear), use the following commands:</p>
+
+    <pre>
+\bibliographystyle{stylename}
+\bibliography{bibfilename}
+    </pre>
+
+    <p>Here <code>stylename</code> is the name of the bibliography style (e.g., IEEEtran for IEEE format) and <code>bibfilename</code> is the name of your .bib file without the extension.</p>
+
+    <h4>2. Using \bibitem command</h4>
+    <p>This is a manual method where you directly write each reference in the LaTeX document. After the text of your paper, insert the following:</p>
+
+    <pre>
+\begin{thebibliography}{99}
+\bibitem{key}
+Author Name, "Title of the Article," Journal Name, vol. Volume Number, no. Issue Number, pp. Page Numbers, Year.
+\end{thebibliography}
+    </pre>
+
+    <p>In the text, use <code>\cite{key}</code> to cite the references where <code>key</code> is the unique identifier you provided in the <code>\bibitem</code>.</p>
+
+    <h3>In MS Word</h3>
+
+    <p>If you're using Word, you have two options:</p>
+
+    <h4>1. Using a reference management tool</h4>
+    <p>Word has a built-in tool for this, but there are also third-party tools like Mendeley, Zotero, and Endnote. These allow you to store references, automatically format them according to a selected style, and insert in-text citations. To use Word's built-in tool, navigate to the "References" tab and select the appropriate citation style. Click "Insert Citation" to add a new source. Fill in the details in the "Create Source" window. To create your bibliography, click "Bibliography" in the "References" tab and select "Works Cited". Word will automatically create a bibliography based on the sources you cited.</p>
+
+    <h4>2. Manually</h4>
+    <p>If you choose to write the references manually, ensure to strictly follow the chosen citation style. Here is a general example in IEEE format:</p>
+
+    <blockquote>
+        Author Initials. Author Surname, "Title of article," in Journal Title, vol.#, no.#, pp. page number/s, Month Year.
+    </blockquote>
+
+    <p>For citing in the text, IEEE uses numbers in square brackets, e.g., [1], which refer to the corresponding numbered reference in the reference list.</p>
+
+    <p>Remember, the key to a good references section is consistency. Ensure every reference follows the same format, and all the citations.</p>
+</div>
