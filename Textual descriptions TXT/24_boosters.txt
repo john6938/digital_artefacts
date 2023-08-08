@@ -1,0 +1,7 @@
+Boosters
+
+Boosters are words that make sentences stronger and more certain. Some common boosters are definitely, clearly, undoubtedly, and always.
+
+For example: "The algorithm clearly improves speed." or "The software is undoubtedly user-friendly."
+
+In computer science writing, boosters are used when the writer feels confident about their ideas or wants to make a point stronger. They help show that the writer believes their results are accurate and can be trusted. However, boosters should be used cautiously and only when the evidence strongly supports the idea. Using too many boosters can make the writing seem overly confident, which may not leave a good impression on the reader.

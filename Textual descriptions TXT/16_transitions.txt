@@ -1,0 +1,27 @@
+Transitions
+
+In academic writing, we use words and phrases to connect ideas across sentences and paragraphs, creating coherence and a smooth flow. These linking devices are known as transition words or phrases.
+
+Transition words and phrases help connect ideas between sentences or even paragraphs. They signal relationships between ideas, such as addition, contrast, cause and effect, time, and sequence. Transition words and phrases guide the reader through the text, making it easier to understand and follow.
+
+Categories of transition words and phrases in computer science contexts:
+a. Addition: These words show that more information is being added. Examples: also, moreover, furthermore, in addition, besides.
+b. Contrast: These words show a difference or opposition between ideas. Examples: however, on the other hand, in contrast, nevertheless, yet, but.
+c. Cause and effect: These words show a cause or result of something. Examples: therefore, as a result, because, since, consequently, thus.
+d. Time: These words indicate when something occurs or the order of events. Examples: meanwhile, after, before, during, subsequently, then.
+e. Sequence: These words show the order or arrangement of ideas. Examples: first, second, third, next, last, finally
+
+Example:
+Python is a popular programming language for beginners. However, some programmers prefer using JavaScript for web development.
+
+In this example, "however" is a transition word that connects the two sentences and shows a contrast between the ideas.
+
+Across paragraphs example:
+
+Python is known for its simplicity and readability, making it a popular choice for beginners. Moreover, it has a wide range of libraries and frameworks.
+
+On the other hand, JavaScript is primarily used for client-side scripting in web development, enabling developers to create interactive websites. 
+
+In this example, "moreover" is used to add information to the ideas presented in the first paragraph, while "on the other hand" serves as a contrasting transition between the two paragraphs. 
+
+Using transition words and phrases helps create clear, coherent, and well-structured texts by connecting ideas across sentences and paragraphs in computer science topics in the English language.

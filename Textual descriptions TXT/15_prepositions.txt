@@ -1,0 +1,27 @@
+Prepositions
+
+Noun phrases are groups of words with a noun as the main word.
+
+For example: "the new language"
+
+Prepositions show the relationship between the noun or pronoun and other words in the sentence. Common prepositions include "in," "on," "at," "with," "by," "for," "before," and "after."
+
+You can add a noun phrase to a sentence to give more details about time, place, manner, or other relationships. For example:
+
+Original: He found the bug. It took two hours.
+
+With noun phrase: He found the bug after two hours.
+
+Reasons to add a noun phrase:
+a. Give more information: Noun phrases give extra details about languages, tools, or processes.
+
+Example: "The developer made a new solution with Python, a helpful language."
+
+b. Make sentences clear: Adding a noun phrase can make a computer science sentence easier to understand.
+
+Example: "The group worked together on the project about machine learning."
+
+c. Create variety: Noun phrases make talking about computer science more interesting and less boring.
+
+Example: "The data person found important information from the big dataset with many data points."
+

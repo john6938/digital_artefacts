@@ -1,0 +1,9 @@
+Approximation
+
+Approximation in English means using words to indicate a number or size without being exact. Words like about, around, nearly, and almost are used for approximation.
+
+In computer science academic writing, approximation is used when we want to convey a general idea without providing the exact number. This is helpful when the precise number is not very important or when simplifying information for better understanding.
+
+For example: "The software takes around 10 minutes to install." or "The system can handle nearly 200 users at once."
+
+Approximation is employed in computer science writing when being highly exact is not necessary. It makes the writing clearer and more straightforward, especially for readers who don't need all the details.

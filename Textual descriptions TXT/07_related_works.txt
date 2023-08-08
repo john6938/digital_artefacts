@@ -1,0 +1,35 @@
+Related works
+
+Writing the Related Works section for a short research article in computer science is crucial because it provides context for your research. It shows how your work fits into the larger scientific dialogue and indicates your awareness of major themes and findings in your area of study. Here's a general step-by-step guide:
+
+1. Identify Your Key Themes
+Start by identifying the main themes or concepts of your research. For example, if your research is on "Machine Learning Algorithms for Predictive Analysis in Healthcare," key themes might include machine learning, predictive analysis, and healthcare applications.
+
+2. Search for Relevant Literature
+Conduct a literature search for articles that relate to your themes. Use databases like Google Scholar, IEEE Xplore, ACM Digital Library, etc. 
+
+3. Categorize Your Findings
+Group the articles you've found into categories based on their relevance to your research. Categories can be based on methodologies used, theoretical approaches, applications, or any other significant factors. 
+
+4. Summarize and Analyze
+For each category, summarize the relevant findings and methodologies from the articles. Also, analyze how these findings relate to your research. Are they supporting your argument? Contradicting? Providing a different perspective?
+
+5. Compare and Contrast
+Highlight the similarities and differences between your work and the related works. This can help to justify your research and identify its unique contribution.
+
+6. Referencing
+Be sure to properly cite all references using the citation style appropriate for your field (like APA, MLA, IEEE, etc).
+
+Here are some categories of related works you may consider, along with examples specific to computer science:
+
+1. Theoretical Approaches: This could include different theoretical approaches or algorithms used in the area of study. For example, if your research involves developing a new algorithm for sorting, you might discuss other sorting algorithms like quicksort, mergesort, heapsort, etc. 
+
+2. Methodologies: This includes the ways in which research has been conducted in your field. For instance, if your research is on artificial intelligence in game design, you could discuss other methods used to incorporate AI in games, such as rule-based systems, machine learning, or neural networks.
+
+3. Applications: This refers to how research has been applied in the real world. For example, if your research is on data security in cloud computing, you might discuss how existing encryption or authentication techniques have been used in cloud environments.
+
+4. Experimental Results: If your research involves an experiment or a new product, you can discuss how others have tested similar ideas or products. For instance, if your research is on performance optimization of database systems, you might discuss other benchmarking studies done in this area.
+
+5. Reviews or Surveys: These are comprehensive summaries of the current state of research on a particular topic. For example, if your research is on the Internet of Things (IoT), you could cite a recent survey paper discussing the latest advancements, challenges, and future directions in IoT research.
+
+Remember, the Related Works section should not only summarize existing literature but also show how your work builds upon or differs from these works, thereby establishing the significance and novelty of your research.

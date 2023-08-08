@@ -1,0 +1,17 @@
+Referring to Equations
+
+Referring to equations in a research article is vital for guiding your readers through your logical and mathematical reasoning. The precise method you use can depend on the length of the paper, the complexity of the equations, and the overall structure of your argument. However, there are some general guidelines you can follow. Here are four common methods to refer to equations in a computer science research article:
+
+1. In-Line Reference
+This is a casual and direct way to refer to equations. You might use it in less formal settings or when the equation is directly relevant to the sentence at hand. An in-line reference would typically use the word "equation" and the equation's number within parentheses. For example, "From the equation (1), we can infer that the time complexity of the algorithm is O(n log n)."
+
+2. Parenthetical Reference
+This is similar to an in-line reference but placed at the end of a sentence or statement, and is a formal way of referencing. It is often used when the equation supports the sentence, but is not the primary focus of it. For example, "The time complexity of the algorithm is O(n log n) (see equation 1)."
+
+3. Direct Reference
+This is when you directly refer to the equation by its number without using the word "equation". This style is often used when the document contains many equations, and the context makes it clear that a number refers to an equation. For example, "As demonstrated by (1), the time complexity of the algorithm is O(n log n)."
+
+4. Narrative Reference
+This is a more descriptive way of referring to equations and is used when you want to describe the nature or significance of the equation as part of the text. For example, "Our conclusion about the time complexity of the algorithm being O(n log n) is drawn from our primary finding, equation (1)."
+
+Remember, it's essential to maintain consistency in your referencing style throughout the document. It's also crucial to use an appropriate numbering system for your equations, typically sequential numbers, and to make sure these numbers are clearly displayed next to the relevant equations. This could be done either to the right of the equation in parentheses or above or below the equation, depending on the formatting style of the article.

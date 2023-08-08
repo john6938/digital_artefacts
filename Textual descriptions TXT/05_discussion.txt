@@ -1,0 +1,35 @@
+Discussion section
+
+The discussion section of a research article is where you interpret your results, highlight significant findings, tie them to previous research, and discuss the implications of your research. Your goal is to explain what your results mean and why they are important. Here's a step-by-step guide:
+
+1. Summarize the Main Findings
+Begin by restating your research question and summarizing your primary findings. This should be a concise restatement of the results section, rather than a detailed reiteration.
+
+Rhetorical Move: Restatement of Results
+Example: Our analysis indicates a substantial improvement in the speed of sorting algorithms when using our proposed method, with a 30% decrease in time complexity compared to traditional quicksort.
+
+2. Interpret the Findings 
+Discuss the significance of your results in relation to the hypotheses or questions posed in the introduction. What do your results mean in the context of your research?
+
+Rhetorical Move: Interpretation of Results
+Example: The reduction in time complexity signifies that our sorting method can handle larger data sets more efficiently, making it a potential candidate for big data applications.
+
+3. Compare with Previous Research
+Compare your results with previous studies. If your results align with prior research, explain how your study supports that work. If your results differ, provide possible reasons for the discrepancy.
+
+Rhetorical Move: Comparison to Prior Work
+Example: These results are in line with the findings of Doe et al. (2020), who suggested that modifying the pivot selection technique in quicksort could yield better performance. However, our method differs from theirs in that we implemented a hybrid approach...
+
+4. Discuss Limitations
+Acknowledge any limitations of your study. This might include issues with the methodology, data collection, analysis, or interpretation. This section should not be used to excuse poor research or analysis, but to provide an honest assessment of what your study did not cover.
+
+Rhetorical Move: Statement of Limitations
+Example: The primary limitation of our study was that we tested our method solely on synthetic datasets. Its effectiveness on real-world datasets remains to be seen...
+
+5. Implications and Future Work
+End by discussing the practical implications of your findings, and how they can be used in future research. Suggest areas for future study that could help extend or apply your research.
+
+Rhetorical Move: Implications and Future Work
+Example: Given the promising results of our study, there are several possible directions for future research. We could evaluate our sorting algorithm's performance on real-world datasets, explore different hybrid approaches...
+
+Remember, clarity and concise writing is key in the discussion section. Avoid overly technical jargon unless necessary and be sure to explain all your points clearly.

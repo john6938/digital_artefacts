@@ -1,0 +1,19 @@
+Linking expressions
+Prepositions, conjunctions, and transitions help connect ideas and make sentences clear.
+1.	Prepositions connect noun phrases and show the relationship between a noun or pronoun and other words in a sentence. They often indicate location, direction, time, or other relationships. For example: 
+●	The data is stored in the database.
+●	She is working on the software.
+●	The algorithm runs faster with optimization.
+In these examples, the prepositions 'in', 'on', and 'with' connect the noun phrases ('the database', 'the software', and 'optimization') to the rest of the sentence.
+2.	Conjunctions are words that join two or more clauses (groups of words with a subject and verb). Common conjunctions include 'and', 'but', 'or', 'so', and 'because'. For example: 
+●	The code is efficient and easy to read. 
+●	The program crashed because there was a bug.
+●	You can use Python or JavaScript for this project.
+Here, the conjunctions 'and', 'because', and 'or' connect the clauses in each sentence.
+3.	Transitions connect sentences by showing the relationship between sentences or paragraphs, making the text flow smoothly. They can indicate addition, contrast, cause and effect, or other connections. 
+Example 1:
+The programmer fixed the bug in the code. However, some performance issues still remained.
+In this example, the transition 'However' connects the two sentences by showing a contrast between the bug being fixed and the remaining performance issues
+Example 2:
+The team implemented a new feature. As a result, the software became more versatile.
+In this case, the transition 'As a result' connects the sentences by showing the cause and effect relationship between implementing a new feature and the software becoming more versatile.

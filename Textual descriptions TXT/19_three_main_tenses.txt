@@ -1,0 +1,17 @@
+Three main tenses
+
+The most frequently used tenses and aspects in computer science writing are the present simple, present perfect simple, and past simple tenses. Here is an explanation for each tense's usage:
+
+Present Simple: This tense is used to discuss concepts that are true now and generally remain true. It helps readers understand fundamental ideas and current developments in computer science.
+
+Example: "A neural network consists of layers of interconnected nodes."
+
+Present Perfect Simple: This tense is used to describe events that began in the past but still have relevance today, often to highlight the significance of previous research in an introduction.
+
+Example: "Researchers of autonomous lane-following have come up with a multitude of techniques."
+
+Past Simple: This tense is used to describe actions completed in the past, typically related to the execution of a project or experiment.
+
+Example: "The team developed the tool and tested its effectiveness using a large dataset."
+
+Using tenses appropriately is crucial when writing a computer science research paper.

@@ -1,0 +1,11 @@
+Introduction section
+
+To write an effective introduction for a short computer science research article, you should use several rhetorical moves to establish context, highlight the significance of your study, and present your research goals. Here are some common rhetorical moves and examples for each:
+
+1.	Introduce the research topic and context (Move 1): Start by briefly presenting the general area of research, setting the stage for your specific focus. Example: "Deep learning has revolutionized various fields, including image recognition, natural language processing, and reinforcement learning."
+2.	Identify the research gap (Move 2): Point out limitations or areas that have not been well-addressed in existing research. This helps justify your study. Example: "However, deep learning models often require substantial computational resources, limiting their applicability in resource-constrained environments."
+3.	State the significance and relevance of the research (Move 3): Explain why addressing the identified gap is important and how it could contribute to the field. Example: "Reducing the computational cost of training deep learning models could expand their adoption and enable their use in real-time applications, such as robotics and mobile devices."
+4.	Present the research objective or question (Move 4): Clearly state the main goal or research question your study aims to address. Example: "This study investigates efficient techniques to reduce the computational costs of training deep learning models without compromising their accuracy."
+5.	Provide an outline of the article (Move 5, optional): Give a brief overview of the organization of the paper, helping guide the reader through the subsequent sections. Example: "We first discuss related work on model pruning, followed by the methodology, experiments conducted, and finally the results and their implications."
+
+When writing an introduction, use clear and concise language, avoid excessive jargon, and ensure a logical flow between the different rhetorical moves.

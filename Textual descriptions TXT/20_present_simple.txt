@@ -1,0 +1,25 @@
+Present simple
+
+In computer science academic writing, we use the present simple tense to explain basic concepts, describe the current state of a technology, or discuss widely accepted theories.
+
+Here are some examples related to computer science academic writing:
+
+1.	Data is stored in databases.
+2.	An algorithm solves a problem.
+3.	A computer processes information.
+
+We use the present simple tense in computer science academic writing for these reasons:
+
+1.	To explain general facts that are true in general in computer science. This helps readers understand the basic ideas and theories.
+
+Example: Machine learning models learn from data.
+
+2.	To describe current states, properties, features or characteristics of a technology or system at the time of writing. This helps readers understand what is happening in the field of computer science.
+
+Example: A neural network consists of layers of interconnected nodes.
+
+3.	To discuss widely accepted theories or principles that are commonly accepted in the field of computer science. This helps readers understand the foundation of the subject.
+
+Example: "Information travels through networks using the Internet Protocol."
+
+In summary, the present simple tense is used in computer science academic writing to explain general facts, describe current states or properties, and discuss widely accepted theories. 

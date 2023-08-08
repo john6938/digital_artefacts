@@ -1,0 +1,9 @@
+In computer science academic writing, we use the present perfect simple tense to emphasize the ongoing importance of past developments, achievements, or discoveries. This is often done in the Introduction section when discussing studies related to our topic.
+
+Here are some reasons and situations to use the present perfect simple in computer science academic writing:
+
+1.	To highlight the ongoing importance of past developments and show that a past action, development, or discovery is still relevant or significant in the present. For example: "Researchers have made significant advancements in artificial intelligence."
+2.	To describe actions that occurred in the past but have a direct impact on the present situation. For example: "Computer scientists have improved data storage techniques, enabling us to store more information."
+3.	To describe past events when the exact time is not important, but the event's impact on the present is relevant. For example: "Scientists have discovered new methods for optimizing algorithms."
+
+In summary, the present perfect simple tense is used in computer science academic writing to emphasize the ongoing importance of past developments, indicate past actions with present results, and describe actions that occurred at an unspecified time in the past. This tense helps convey the connection between past events and their present significance.
