@@ -17,6 +17,7 @@ This repository houses the AI-generated artefacts:
 This is the complete list of files:
 
 Sections:
+
 1. Abstract
 2. Introduction
 3. Method
@@ -25,32 +26,38 @@ Sections:
 6. References
 
 Subsections:
+
 7. Related works
 8. Importance
 9. Novelty
 10. Overview
 
 Functions:
+
 11. Referring to figures
 12. Referring to tables
 13. Referring to equations
 
 Linking:
+
 14. All
 15. Prepositions
 16. Transitions
 17. Conjunctions
 
 Voice:
+
 18. Passive voice
 
 Pedagogic tenses:
+
 19. Three main tenses
 20. Present simple
 21. Present perfect simple
 22. Past simple
 
 Modality:
+
 23. Hedges
 24. Boosters
 25. Approximation
