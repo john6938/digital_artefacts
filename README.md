@@ -14,7 +14,7 @@ This repository houses the AI-generated artefacts:
 4. Bullet-point slide deck (PPTX)
 5. Audio files (MP3)
 
-Insert the MP3 audio files on the appropriate PPTX slides, record the slideshow and export to video to create your own set of MP4 videos.  The videos created are (will shortly be) available on the [Feature Visualizer]([url](https://fv.rt247a.ddns.me/))
+Insert the MP3 audio files on the appropriate PPTX slides, record the slideshow and export to video to create your own set of MP4 videos.  The videos created are (will shortly be) available on the [Feature Visualizer](https://fv.rt247a.ddns.me/).
 
 
 This is the complete list of files:
