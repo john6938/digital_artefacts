@@ -1,4 +1,4 @@
-# digital_artefacts
+# Digital Artefacts
 AI-generated digital artefacts (GloCALL 2023)
 
 **Abstract**
